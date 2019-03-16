@@ -1,0 +1,51 @@
+/* CSS file */
+
+/* This is a CSS rule: a selector followed by curly brackets */
+
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    border: 2px dashed white;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+#container {
+    margin: 0 auto;
+    width: 1200px;
+    background-color: #F4D373;
+}
+
+#nav {
+    float: left;
+    width: 180px;
+}
+
+#main {
+    width: 1000px;
+    float: left;
+}
+
+#footer {
+    clear: both;
+    background-color: grey;
+    padding: 5px;
+    text-align: center;
+}
+
+img {
+    position: relative;
+    border:2px solid white;
+    float: right; 
+
+}
+
+body{
+     color: black;
+    line-height: 1.5em;
+    letter-spacing: 0.05em;
+}
